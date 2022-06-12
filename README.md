@@ -1,17 +1,17 @@
 # Mission-to-Mars
 
 ## Environment
-Python 3.7.3
-Anaconda 1.9.0
-Conda 4.12.0
-Jupyter notebook 6.1.12
-Pandas 1.3.4
-Splinter 0.17.0
-Flask 1.1.2
-Bootstrap
-MongoDB 5.0.9
-HTML5 1.1
-BeautifulSoup4 4.10.0
+Python 3.7.3  
+Anaconda 1.9.0  
+Conda 4.12.0  
+Jupyter notebook 6.1.12  
+Pandas 1.3.4  
+Splinter 0.17.0  
+Flask 1.1.2  
+Bootstrap  
+MongoDB 5.0.9  
+HTML5 1.1  
+BeautifulSoup4 4.10.0  
 
 
 
